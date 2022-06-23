@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-Soy desarrollador Full-Stack y vivo en Colombia, apasionado por la tecnología y el aprendizaje. Con más de 15 años de experiencia en el mundo IT, me gusta trabajr en equipo, compartir conocimiento y dar mis trabajar para el desarrollo de proyectos y/o empesas el sector.
+Soy desarrollador Full-Stack y vivo en Colombia, apasionado por la tecnología y el aprendizaje. Con más de 15 años de experiencia en el mundo IT, me gusta trabajr en equipo, compartir conocimiento y trabajar para el desarrollo de proyectos y/o empesas en Colombia y Lationamerica.
 
 Encuentrame aquí: https://www.linkedin.com/in/eliecervillalba
 
