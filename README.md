@@ -18,9 +18,7 @@ Here are some ideas to get you started:
 
 Soy desarrollador Full-Stack y vivo en Colombia, apasionado por la tecnología y el aprendizaje. Con más de 15 años de experiencia en el mundo IT, me gusta trabajr en equipo, compartir conocimiento y trabajar para el desarrollo de proyectos y/o empesas en Colombia y Lationamerica.
 
-Encuentrame aquí: https://www.linkedin.com/in/eliecervillalba
-
-Email: evillalba510@gmail.com
+Contacto: evillalba510@gmail.com
 
 🛠️ Lenguajes y Herramientas :
 JavaScript, React,  Redux,   CSS,  HTML,  JavaScript,  Bootstrap,  NodeJS,  Express, PostgreSQL,  Github, Heroku, Vercel, bash
