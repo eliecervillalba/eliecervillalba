@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+👨‍💻 Acerca de mí:
+Soy desarrollador Full-Stack y vivo en Colombia, apasionado por la tecnología y el aprendizaje. Con más de 15 años de experiencia en el mundo IT, me gusta trabajr en equipo, compartir conocimiento y dar mis aportes para el desarrollo de proyectos y/o empesas el sector.
+
+Encuentrame aquí: https://www.linkedin.com/in/eliecervillalba
