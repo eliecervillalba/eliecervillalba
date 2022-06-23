@@ -21,4 +21,4 @@ Soy desarrollador Full-Stack y vivo en Colombia, apasionado por la tecnología y
 Encuentrame aquí: https://www.linkedin.com/in/eliecervillalba
 
 🛠️ Lenguajes y Herramientas :
-JavaScript React  Redux   CSS  HTML  JavaScript  Bootstrap  NodeJS  Express PostgreSQL  Github Heroku Vercel bash"
+JavaScript, React,  Redux,   CSS,  HTML,  JavaScript,  Bootstrap,  NodeJS,  Express, PostgreSQL,  Github, Heroku, Vercel, bash"
