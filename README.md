@@ -16,9 +16,39 @@ Here are some ideas to get you started:
 -->
 
 
-Soy desarrollador Full-Stack y vivo en Colombia, apasionado por la tecnología y el aprendizaje. Con más de 15 años de experiencia en el mundo IT, me gusta trabajr en equipo, compartir conocimiento y trabajar para el desarrollo de proyectos y/o empesas en Colombia y Lationamerica.
+En mi recorrido de 15+ años por el industria IT como analista de sietemas, aprendí el valor de trabajar en equipo, el aprendizaje continuo, la autonomía, el compromiso y la responsabilidad tanto en mi vida profesional como personal.
 
-Contacto: evillalba510@gmail.com
+Recientemente me lancé a atualizar mis conocimientos para seguir creciendo laboralmente, por esta razón invertí mas de 700 horas en el bootcamp #soyhenry; donde adquirí conocimientos, Skills y experiencia académica como desarrolador web full stack.
 
-🛠️ Lenguajes y Herramientas :
-JavaScript, React,  Redux,   CSS,  HTML,  JavaScript,  Bootstrap,  NodeJS,  Express, PostgreSQL,  Github, Heroku, Vercel, bash
+En este contexto quiero mostrarte lo que tengo para dar en este momento, sin embargo debes saber que no será lo único ya que me gusta aprender y seguiré estudiando.
+
+🛠️ Lenguajes y Herramientas que conozco:
+
+LADO FRONT-END:
+JavaScript
+ReactJS
+Redux
+CSS
+HTML
+Bootstrap
+
+LADO BACK-END:
+NodeJS
+Express
+PostgreSQL
+Sequelize
+
+OTRAS TECNOLOGÍAS:
+Git
+Github
+Heroku
+Vercel
+CONFLUENCE
+JIRA
+Trello
+
+OTROS SKILLS:
+Metodología agile con SCRUM
+KANBAN
+Documentación y redacción técnica.
+entre otros.
