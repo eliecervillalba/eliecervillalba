@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-En mi recorrido de 15+ años por el industria IT como analista de sietemas, aprendí el valor de trabajar en equipo, el aprendizaje continuo, la autonomía, el compromiso y la responsabilidad tanto en mi vida profesional como personal.
+En mi recorrido de 15+ años por el industria IT como analista de sistemas, aprendí el valor de trabajar en equipo, el aprendizaje continuo, la autonomía, el compromiso y la responsabilidad tanto en mi vida profesional como personal.
 
 Recientemente me lancé a atualizar mis conocimientos para seguir creciendo laboralmente, por esta razón invertí mas de 700 horas en el bootcamp #soyhenry; donde adquirí conocimientos, Skills y experiencia académica como desarrolador web full stack.
 
