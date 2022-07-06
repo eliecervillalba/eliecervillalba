@@ -20,7 +20,7 @@ En mi recorrido de 15+ años por el industria IT como analista de sistemas, apre
 
 Recientemente me lancé a atualizar mis conocimientos para seguir creciendo laboralmente, por esta razón invertí mas de 700 horas en el bootcamp #soyhenry; donde adquirí conocimientos, Skills y experiencia académica como desarrolador web full stack.
 
-En este contexto quiero mostrarte lo que tengo para dar en este momento, sin embargo; debes saber que no será lo único, ya que seguiré aprendiendo.
+En este contexto quiero mostrarte los conocimientos y skills en los que me he preparado, sin embargo; debes saber que no será lo único, ya que seguiré aprendiendo.
 
 🛠️ Lenguajes y Herramientas que conozco:
 
@@ -30,13 +30,15 @@ ReactJS,
 Redux, 
 CSS, 
 HTML, 
-Bootstrap
+Bootstrap.
 
 LADO BACK-END: 
 NodeJS, 
-Express, 
-PostgreSQL, 
-Sequelize
+Express,
+Sequelize.
+
+BASES DE DATOS: 
+PostgreSQL.
 
 OTRAS TECNOLOGÍAS: 
 Git, 
@@ -45,7 +47,7 @@ Heroku,
 Vercel, 
 CONFLUENCE, 
 JIRA, 
-Trello
+Trello.
 
 OTROS SKILLS: 
 Metodología agile con SCRUM, 
