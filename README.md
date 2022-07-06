@@ -25,33 +25,33 @@ En este contexto quiero mostrarte en lo que me he preparado y trabajado reciente
 
 🛠️ Lenguajes y Herramientas que domino:
 
-LADO FRONT-END: 
-- JavaScript, 
-- ReactJS, 
-- Redux, 
-- CSS, 
-- HTML, 
-- Bootstrap.
+LADO FRONT-END:
+- JavaScript
+- ReactJS
+- Redux
+- CSS
+- HTML
+- Bootstrap
 
-LADO BACK-END: 
-- NodeJS, 
-- Express,
-- Sequelize.
+LADO BACK-END:
+- NodeJS
+- Express
+- Sequelize
 
-BASES DE DATOS: 
-- PostgreSQL.
+BASES DE DATOS:
+- PostgreSQL
 
-OTRAS TECNOLOGÍAS: 
-- Git, 
-- Github, 
-- Heroku, 
-- Vercel, 
-- CONFLUENCE, 
-- JIRA, 
-- Trello.
+OTRAS TECNOLOGÍAS:
+- Git
+- Github
+- Heroku
+- Vercel
+- CONFLUENCE
+- JIRA
+- Trello
 
-OTROS SKILLS: 
-- Metodología agile con SCRUM, 
-- KANBAN, 
-- Documentación y redacción técnica, 
-- entre otros.
+OTROS SKILLS:
+- Metodología agile con SCRUM
+- KANBAN
+- Documentación y redacción técnica
+- entre otros
