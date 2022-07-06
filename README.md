@@ -25,32 +25,32 @@ En este contexto quiero mostrarte los conocimientos y skills en los que me he pr
 🛠️ Lenguajes y Herramientas que conozco:
 
 LADO FRONT-END: 
-JavaScript, 
-ReactJS, 
-Redux, 
-CSS, 
-HTML, 
-Bootstrap.
+- JavaScript, 
+- ReactJS, 
+- Redux, 
+- CSS, 
+- HTML, 
+- Bootstrap.
 
 LADO BACK-END: 
-NodeJS, 
-Express,
-Sequelize.
+- NodeJS, 
+- Express,
+- Sequelize.
 
 BASES DE DATOS: 
-PostgreSQL.
+- PostgreSQL.
 
 OTRAS TECNOLOGÍAS: 
-Git, 
-Github, 
-Heroku, 
-Vercel, 
-CONFLUENCE, 
-JIRA, 
-Trello.
+- Git, 
+- Github, 
+- Heroku, 
+- Vercel, 
+- CONFLUENCE, 
+- JIRA, 
+- Trello.
 
 OTROS SKILLS: 
-Metodología agile con SCRUM, 
-KANBAN, 
-Documentación y redacción técnica, 
-entre otros.
+- Metodología agile con SCRUM, 
+- KANBAN, 
+- Documentación y redacción técnica, 
+- entre otros.
